@@ -1,0 +1,1 @@
+Just drop [the latest DLL](https://github.com/sebastientromp/hs-melon-hide-mercenary-emotes/releases/latest/download/NoMercsDiamondVoiceLines.dll) into your Hearthstone Mods folder (you need to have installed MelonLoader first)
