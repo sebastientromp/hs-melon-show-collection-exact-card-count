@@ -35,6 +35,6 @@ using ShowCollectionExactCount; // The namespace of your mod class
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")] 
 
-[assembly: MelonInfo(typeof(ShowCollectionExactCountMod), "Show Exact Card Count in Collection", "0.0.2", "Sébastien Tromp", "https://github.com/sebastientromp/hs-melon-show-collection-exact-card-count")]
+[assembly: MelonInfo(typeof(ShowCollectionExactCountMod), "Show Exact Card Count in Collection", "0.0.3", "Sébastien Tromp", "https://github.com/sebastientromp/hs-melon-show-collection-exact-card-count")]
